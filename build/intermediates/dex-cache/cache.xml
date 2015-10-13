@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\shai\Desktop\Temp Files\ClickToCall\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0632f06970823b7e3436f649bfa65b47035c91d0">
+        <dex dex="C:\Users\shai\Desktop\Temp Files\ClickToCall\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-10854dfcba7cc13a2cead1c8d4b9f9e0bbeae548.jar" />
+    </item>
+    <item
+        jar="C:\Users\shai\Desktop\Temp Files\ClickToCall\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c756d14e99d39471e99013a1e8fd2f3813ed42bf">
+        <dex dex="C:\Users\shai\Desktop\Temp Files\ClickToCall\app\build\intermediates\pre-dexed\debug\classes-4e6c838ee6cf6451bd092be71c449c6fea0c39f4.jar" />
+    </item>
+    <item
+        jar="C:\Users\shai\Desktop\Temp Files\ClickToCall\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b99f0b78bbcb76b915bc6529a83b65d4d46990dd">
+        <dex dex="C:\Users\shai\Desktop\Temp Files\ClickToCall\app\build\intermediates\pre-dexed\debug\classes-d9b6da467fc7b86e9c4a1fecf944e27b7faa5b5b.jar" />
+    </item>
+    <item
+        jar="C:\Users\shai\Desktop\Temp Files\ClickToCall\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="42a1ee578b62fd1bd28b3307a679dc9ba0791587">
+        <dex dex="C:\Users\shai\Desktop\Temp Files\ClickToCall\app\build\intermediates\pre-dexed\debug\classes-b7d6204fdadb411c702fd298fe1714973eb7090b.jar" />
+    </item>
+    <item
+        jar="C:\Users\shai\workspace\My Apps\ClickToCall\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\Users\shai\workspace\My Apps\ClickToCall\app\build\intermediates\pre-dexed\debug\classes-21de11f85a6efa3c3d4ff87a2fdb6631f26d6d58.jar" />
+    </item>
+    <item
+        jar="C:\Users\shai\Desktop\Temp Files\ClickToCall\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="130b32ed466fa0f63efd4c7d6250ccd2ed506790">
+        <dex dex="C:\Users\shai\Desktop\Temp Files\ClickToCall\app\build\intermediates\pre-dexed\debug\classes-ceebdfb44bed3430c1e28aec31084effc4bd9f24.jar" />
+    </item>
+    <item
+        jar="C:\Users\shai\Desktop\Temp Files\ClickToCall\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="2491ae1b2a848af1f4f0c795f3117c1bd6a1989f">
+        <dex dex="C:\Users\shai\Desktop\Temp Files\ClickToCall\app\build\intermediates\pre-dexed\debug\classes-e7eaf7d73ef2bbc871d15402f76d0af3b422fbfa.jar" />
+    </item>
+    <item
+        jar="C:\Users\shai\Desktop\Temp Files\ClickToCall\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ff30fa49c07a08c3035d7218a3efebf5680d522">
+        <dex dex="C:\Users\shai\Desktop\Temp Files\ClickToCall\app\build\intermediates\pre-dexed\debug\classes-19b81bbd6427eb3f9e79002b825e5a236e64baed.jar" />
+    </item>
+    <item
+        jar="C:\Users\shai\Desktop\Temp Files\ClickToCall\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="2e24e5f1b11170163028277de63f709e42525db4">
+        <dex dex="C:\Users\shai\Desktop\Temp Files\ClickToCall\app\build\intermediates\pre-dexed\debug\classes-d7eb8f2bb488738e75720cbdca77f6204ed46432.jar" />
+    </item>
+    <item
+        jar="C:\Users\shai\Desktop\Temp Files\ClickToCall\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0124ce31248c0e8acfa2b28283c6d1a4d76e73d2">
+        <dex dex="C:\Users\shai\Desktop\Temp Files\ClickToCall\app\build\intermediates\pre-dexed\debug\classes-98f681c3bd8b76730a99ac16c7e5e82b373313e7.jar" />
+    </item>
+    <item
+        jar="C:\Users\shai\Desktop\Temp Files\ClickToCall\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="98137c4d12c50923f5809852b1ef4d1c4e162081">
+        <dex dex="C:\Users\shai\Desktop\Temp Files\ClickToCall\app\build\intermediates\pre-dexed\debug\classes-8bf5a36791043dc6ed80d8fec8a7826714783f85.jar" />
+    </item>
+    <item
+        jar="C:\Users\shai\Desktop\Temp Files\ClickToCall\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6e85edfc9b5346d216e50ccef1f8e825504144a3">
+        <dex dex="C:\Users\shai\Desktop\Temp Files\ClickToCall\app\build\intermediates\pre-dexed\debug\classes-05151e39e8f5fd22f01b47b2f780291afa3251a5.jar" />
+    </item>
+    <item
+        jar="C:\Users\shai\Desktop\Temp Files\ClickToCall\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="cb6fab7a71fa9ec1f483d44c5fca65ab469d8aca">
+        <dex dex="C:\Users\shai\Desktop\Temp Files\ClickToCall\app\build\intermediates\pre-dexed\debug\classes-6633e51dcde0e80d1a1e5a41034a8ad47bc4e318.jar" />
+    </item>
+    <item
+        jar="C:\Users\shai\Desktop\Temp Files\ClickToCall\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="C:\Users\shai\Desktop\Temp Files\ClickToCall\app\build\intermediates\pre-dexed\debug\classes-d1ac9735125ef3ace2f4b2777c3b3389049b6654.jar" />
+    </item>
+    <item
+        jar="C:\Users\shai\Desktop\Temp Files\ClickToCall\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="adebe28e0c0c05d34a3bfd76f3275bf4d8ff87b6">
+        <dex dex="C:\Users\shai\Desktop\Temp Files\ClickToCall\app\build\intermediates\pre-dexed\debug\classes-19ce6544749baf94521a389bc4379a151014deb5.jar" />
+    </item>
+    <item
+        jar="C:\Users\shai\Desktop\Temp Files\ClickToCall\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c2ac04c5b232f6f0658ee4f1c13be09cd76406e2">
+        <dex dex="C:\Users\shai\Desktop\Temp Files\ClickToCall\app\build\intermediates\pre-dexed\debug\classes-600be5d2d0a0d0f001ef754829e9832bc403407b.jar" />
+    </item>
+    <item
+        jar="C:\Users\shai\Desktop\Temp Files\ClickToCall\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="edea92852b40eee716e910af8dad9eeaa58fb0e1">
+        <dex dex="C:\Users\shai\Desktop\Temp Files\ClickToCall\app\build\intermediates\pre-dexed\debug\classes-a11a040415a8a9f2b168b2a18cff97013a9e147e.jar" />
+    </item>
+    <item
+        jar="C:\Users\shai\Desktop\Temp Files\ClickToCall\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="166e458ee3b5fb5fcff0f936df3f3a788e6c54f3">
+        <dex dex="C:\Users\shai\Desktop\Temp Files\ClickToCall\app\build\intermediates\pre-dexed\debug\classes-8cfe63776eb834bc33646ac2bc813395bced0b41.jar" />
+    </item>
+    <item
+        jar="C:\Users\shai\workspace\My Apps\ClickToCall\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="C:\Users\shai\workspace\My Apps\ClickToCall\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1-65d008699d66ef42498e69177ba6212a99ddbff7.jar" />
+    </item>
+    <item
+        jar="C:\Users\shai\Desktop\Temp Files\ClickToCall\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="77a9dcb5f8b1dba36aacaa9c150eb0942dbea158">
+        <dex dex="C:\Users\shai\Desktop\Temp Files\ClickToCall\app\build\intermediates\pre-dexed\debug\classes-3d98c7c808c0c7db40972f52784f0e433a78a4a2.jar" />
+    </item>
+    <item
+        jar="C:\Users\shai\Desktop\Temp Files\ClickToCall\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e23ea11124bb700eeddd4ab7aa848c615f493850">
+        <dex dex="C:\Users\shai\Desktop\Temp Files\ClickToCall\app\build\intermediates\pre-dexed\debug\classes-be24a6913c560ca8d78e749b01ad1c9c09b5bab4.jar" />
+    </item>
+    <item
+        jar="C:\Users\shai\Desktop\Temp Files\ClickToCall\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="dcf8c83c3dead00a6c4fe313e95f7aaca20dc641">
+        <dex dex="C:\Users\shai\Desktop\Temp Files\ClickToCall\app\build\intermediates\pre-dexed\debug\classes-8f6061f0c29a09cac629b9fb7fb33f5e6e165eb9.jar" />
+    </item>
+    <item
+        jar="C:\Users\shai\workspace\My Apps\ClickToCall\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="C:\Users\shai\workspace\My Apps\ClickToCall\app\build\intermediates\pre-dexed\debug\classes-84f2910995d2b78885826549706e6208b47f2cad.jar" />
+    </item>
+    <item
+        jar="C:\Users\shai\Desktop\Temp Files\ClickToCall\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c5cafb324568d954780abb858c25db7ce675ab3c">
+        <dex dex="C:\Users\shai\Desktop\Temp Files\ClickToCall\app\build\intermediates\pre-dexed\debug\classes-84c57c48472535d08f62a51412b1b31062e24351.jar" />
+    </item>
+    <item
+        jar="C:\Users\shai\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="C:\Users\shai\workspace\My Apps\ClickToCall\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1-c121a03cef1f04e61fbbe2bc66110da97d0901ae.jar" />
+    </item>
+    <item
+        jar="C:\Users\shai\Desktop\Temp Files\ClickToCall\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d11330ea68c0d964d30d5caed1f27e6b1488b189">
+        <dex dex="C:\Users\shai\Desktop\Temp Files\ClickToCall\app\build\intermediates\pre-dexed\debug\classes-e00196bb3ee69edf197f8c3a39f13d3a9cff012b.jar" />
+    </item>
+    <item
+        jar="C:\Users\shai\Desktop\Temp Files\ClickToCall\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4a135d56554069e5d0ff80e3220e887e57146ee5">
+        <dex dex="C:\Users\shai\Desktop\Temp Files\ClickToCall\app\build\intermediates\pre-dexed\debug\classes-683f21d04262bacf2fcc0aecf5b6fa6d2375b183.jar" />
+    </item>
+    <item
+        jar="C:\Users\shai\Desktop\Temp Files\ClickToCall\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c0c912d58c9468b1f9d9769c8975afdf2c85d681">
+        <dex dex="C:\Users\shai\Desktop\Temp Files\ClickToCall\app\build\intermediates\pre-dexed\debug\classes-374caf6eef7d5975faade30ce3fb013fc213b9e3.jar" />
+    </item>
+    <item
+        jar="C:\Users\shai\Desktop\Temp Files\ClickToCall\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\Users\shai\Desktop\Temp Files\ClickToCall\app\build\intermediates\pre-dexed\debug\classes-2bd7905cdaa2cd8a18ca2081e34bd8449715c9e4.jar" />
+    </item>
+    <item
+        jar="C:\Users\shai\Desktop\Temp Files\ClickToCall\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="C:\Users\shai\Desktop\Temp Files\ClickToCall\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1-bcb69c9109786abf5b835d303dea859e040418b9.jar" />
+    </item>
+
+</items>
